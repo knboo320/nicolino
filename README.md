@@ -29,7 +29,7 @@ Desenvolvido durantes as aulas de Fundamentos de Lógica de Programação Orient
 
 Os labirintos foram a entrega de uma atividade onde nós produzimos três mapas distintos do mercado da Amazon Fresh, organizandos os respectivos itens a serem coletados e averiguando qual o caminho mais curto para se obter todos os itens do mapa. Ele contêm um contador que irá dizer quantos passos você já deu dentro do mercado.
 
-* Link do Replit: [Amazon Fresh - SENAI](https://replit.com/join/ofxyadtmlw-nicogames320)
+* Link do Replit: [Amazon Fresh - SENAI](https://replit.com/@nicogames320/Amazon-Fresh?v=1)
 
 ## 🎮 Como Jogar
 Você deve coletar todos os itens ($) do mapa e se mover utilizando as seguintes teclas:
